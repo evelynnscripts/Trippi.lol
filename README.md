@@ -2,7 +2,7 @@
 Best Roblox Scripts Made to Suit You!
 
 ## Games
-```md
+```diff
 + Blox Fruits
 + Rivals
 + Grow a Garden
